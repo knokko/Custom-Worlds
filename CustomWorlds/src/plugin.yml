@@ -1,0 +1,6 @@
+name: KnokkoWorldGen
+main: nl.knokko.worldgen.WorldGenPlugin
+version: 1.0
+commands:
+  kwg:
+    description: Test command
